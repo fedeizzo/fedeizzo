@@ -1,4 +1,4 @@
-Hi, my name is Federico Izzo. I'm an Italian guy attending University of Trento for the Bachelor's degree in Computer Science. 
+Hi, my name is Federico Izzo. I'm an Italian guy attending University of Trento for the Master degree in Artificial Intelligence Systems. 
 
 I'm a Data science and Linux world enthusiast.
 
