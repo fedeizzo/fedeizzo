@@ -7,6 +7,8 @@ Currently working as junior Data Scientist and Machine Learning engineer for [Br
 Machine learning projects:
 
 - [camera-pose-estimation](https://github.com/fedeizzo/camera-pose-estimation)
+- [domain adaptation](https://github.com/fedeizzo/domain-adaptation)
+
 
 System programming projects:
 
