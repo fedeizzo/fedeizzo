@@ -8,6 +8,7 @@ Machine learning projects:
 
 - [camera-pose-estimation](https://github.com/fedeizzo/camera-pose-estimation)
 - [domain adaptation](https://github.com/fedeizzo/domain-adaptation)
+- [parallel PSO](https://github.com/fedeizzo/ParticleSwarmOptimization-OpenMPI)
 
 
 System programming projects:
