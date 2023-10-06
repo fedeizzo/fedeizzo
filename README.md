@@ -2,7 +2,7 @@ Hi, my name is Federico Izzo. I'm an Italian guy attending University of Trento 
 
 I'm a Linux world enthusiast.
 
-Currently working as Software Engineer intern for [Datadog](https://www.datadoghq.com/).
+Currently working as Software Developer Engineer for [Datadog](https://www.datadoghq.com/).
 
 Machine learning projects:
 
